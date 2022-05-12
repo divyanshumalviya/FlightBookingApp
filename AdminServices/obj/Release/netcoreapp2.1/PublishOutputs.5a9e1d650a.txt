@@ -1,0 +1,6 @@
+C:\Divyanshu\Flight Booking\FlightBookingApp\AdminServices\obj\Release\netcoreapp2.1\PubTmp\Out\appsettings.Development.json
+C:\Divyanshu\Flight Booking\FlightBookingApp\AdminServices\obj\Release\netcoreapp2.1\PubTmp\Out\appsettings.json
+C:\Divyanshu\Flight Booking\FlightBookingApp\AdminServices\obj\Release\netcoreapp2.1\PubTmp\Out\AdminServices.dll
+C:\Divyanshu\Flight Booking\FlightBookingApp\AdminServices\obj\Release\netcoreapp2.1\PubTmp\Out\AdminServices.runtimeconfig.json
+C:\Divyanshu\Flight Booking\FlightBookingApp\AdminServices\obj\Release\netcoreapp2.1\PubTmp\Out\AdminServices.pdb
+C:\Divyanshu\Flight Booking\FlightBookingApp\AdminServices\obj\Release\netcoreapp2.1\PubTmp\Out\AdminServices.deps.json

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAReGMwpcLy0ypoRYyqGUPJgAAAAACAAAAAAAQZgAAAAEAACAAAABKyAdc42VvFXyBXFrUlN3KDBYnHZo7wxHPndpqN3b8RgAAAAAOgAAAAAIAACAAAABS+a+zFELxA9N1Z3I+tt+zaiwaHEaiG+yBKj3EdJeBkYAAAABEHet+0PeIcXWPtKT/FVM8sRafb7pF1elxAJDVza8gPm2pRkHVgmCU6NY8Bvx2Q4I2RVc1rUVtMrW7LVL2/WgMCyyLeiUoPzoLhziDtAy1hqaxedTFvGo+8rsk139dubdxy1DycdhyyYiRr6deUMjn6Np4bTy/erM3q7bvtzpQmEAAAADOshROXYYYnuKs82SqLZ/xQDRq1HehGAcogogBGFgjnkVvUty1OeMaRLtWOQVtvd7OQ5aP4OZvx7ctrIZByyZZ</EncryptedPassword>
+    <History>True|2022-05-10T09:00:57.6944199Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="AdminServices.Models.DBFlightBookingContext">
+      <Value>Data Source=tcp:adminservicesdbserver.database.windows.net,1433%3bInitial Catalog=AdminServices_db%3bUser Id=Divyanshu%40adminservicesdbserver%3bPassword=%40Nuradh%401007</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

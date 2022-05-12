@@ -1,0 +1,17 @@
+C:\Divyanshu\Flight Booking\FlightBookingApp\FBAPIGateway\bin\Debug\netcoreapp2.1\FBAPIGateway.deps.json
+C:\Divyanshu\Flight Booking\FlightBookingApp\FBAPIGateway\bin\Debug\netcoreapp2.1\FBAPIGateway.runtimeconfig.json
+C:\Divyanshu\Flight Booking\FlightBookingApp\FBAPIGateway\bin\Debug\netcoreapp2.1\FBAPIGateway.runtimeconfig.dev.json
+C:\Divyanshu\Flight Booking\FlightBookingApp\FBAPIGateway\bin\Debug\netcoreapp2.1\FBAPIGateway.dll
+C:\Divyanshu\Flight Booking\FlightBookingApp\FBAPIGateway\bin\Debug\netcoreapp2.1\FBAPIGateway.pdb
+C:\Divyanshu\Flight Booking\FlightBookingApp\FBAPIGateway\obj\Debug\netcoreapp2.1\FBAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Divyanshu\Flight Booking\FlightBookingApp\FBAPIGateway\obj\Debug\netcoreapp2.1\FBAPIGateway.AssemblyInfoInputs.cache
+C:\Divyanshu\Flight Booking\FlightBookingApp\FBAPIGateway\obj\Debug\netcoreapp2.1\FBAPIGateway.AssemblyInfo.cs
+C:\Divyanshu\Flight Booking\FlightBookingApp\FBAPIGateway\obj\Debug\netcoreapp2.1\FBAPIGateway.csproj.CoreCompileInputs.cache
+C:\Divyanshu\Flight Booking\FlightBookingApp\FBAPIGateway\obj\Debug\netcoreapp2.1\FBAPIGateway.RazorAssemblyInfo.cache
+C:\Divyanshu\Flight Booking\FlightBookingApp\FBAPIGateway\obj\Debug\netcoreapp2.1\FBAPIGateway.RazorAssemblyInfo.cs
+C:\Divyanshu\Flight Booking\FlightBookingApp\FBAPIGateway\obj\Debug\netcoreapp2.1\FBAPIGateway.RazorTargetAssemblyInfo.cache
+C:\Divyanshu\Flight Booking\FlightBookingApp\FBAPIGateway\obj\Debug\netcoreapp2.1\FBAPIGateway.dll
+C:\Divyanshu\Flight Booking\FlightBookingApp\FBAPIGateway\obj\Debug\netcoreapp2.1\FBAPIGateway.pdb
+C:\Divyanshu\Flight Booking\FlightBookingApp\FBAPIGateway\obj\Debug\netcoreapp2.1\FBAPIGateway.genruntimeconfig.cache
+C:\Divyanshu\Flight Booking\FlightBookingApp\FBAPIGateway\bin\Debug\netcoreapp2.1\FBConfiguration.json
+C:\Divyanshu\Flight Booking\FlightBookingApp\FBAPIGateway\obj\Debug\netcoreapp2.1\FBAPIGateway.csproj.AssemblyReference.cache
